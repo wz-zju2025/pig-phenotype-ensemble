@@ -1,0 +1,10 @@
+{
+  "pig_fasta": "/path/to/Sus_scrofa.Sscrofa11.1.dna.toplevel.fa",
+  "pig_gtf": "/path/to/Sus_scrofa.Sscrofa11.1.116.gtf",
+  "enformer_config": "/path/to/Enformer/config.json",
+  "enformer_weights": "/path/to/Enformer/pytorch_model.bin",
+  "borzoi_weights": "/path/to/Borzoi/borzoi/model0_best.h5",
+  "alphagenome_weights": "/path/to/alphagenome_weights",
+  "translatomer_checkpoint": "/path/to/translatomer.ckpt",
+  "faang_peaks": "/path/to/pig_h3k4me3_or_atac.bed"
+}

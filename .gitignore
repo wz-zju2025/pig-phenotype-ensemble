@@ -1,0 +1,12 @@
+config/local_paths.json
+outputs/
+*.h5
+*.ckpt
+*.bin
+*.fa
+*.fa.gz
+*.gtf
+*.bam
+*.bw
+__pycache__/
+.venv/
